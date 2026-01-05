@@ -1,0 +1,5 @@
+{
+  "name": "Visual Attention Dual-Task Assessment (Pico Optimized)",
+  "description": "A split-screen cognitive assessment tool. Left screen for continuous tracking, right screen for peripheral target detection. Optimized for VR/XR pointers.",
+  "requestFramePermissions": []
+}
